@@ -5,6 +5,7 @@ import logo from "./logo";
 import LogoutBtn from "./Header/LogoutBtn";
 import Input from "./Input";
 import Button from './Button';
+import RTE from './RTE'
 export {
     Header,
     Footer,
